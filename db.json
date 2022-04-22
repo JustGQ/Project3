@@ -10,12 +10,5 @@
     { "id": 8, "title": "Post 8" },
     { "id": 9, "title": "Post 9" },
     { "id": 10, "title": "Post 10" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
